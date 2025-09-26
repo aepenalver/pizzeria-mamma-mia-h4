@@ -1,5 +1,5 @@
 const convertedAmount = (amount) => {
-  return amount.toLocaleString();
+  return Number(amount).toLocaleString();
 };
 
 export default convertedAmount;
