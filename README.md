@@ -1,7 +1,5 @@
 # Pizzería Mamma Mia!
 
-## Descripción de la App
-
 Hito 4 de proyecto desarrollado para mostrar conocimientos de desarrollo con React.
 
 ## Tecnologías Empleadas
@@ -38,7 +36,7 @@ npm install
 npm run dev
 ```
 
-- La aplicación debería estar visible desde el navegador en "http://localhost:5173/" para lo cual <u>ya debe haberse levantado el servidor backend</u>.
+- La aplicación debería estar visible desde el navegador en "http://localhost:5173/" para lo cual <span style="text-decoration: underline">ya debe haberse levantado el servidor backend</span>.
 
 ⚠️ En caso de no contar con el backend:
 
