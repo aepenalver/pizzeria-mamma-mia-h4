@@ -50,7 +50,7 @@ const RegisterPage = () => {
           <Form.Label className="fw-bold">Contraseña</Form.Label>
           <Form.Control type="password" placeholder="Establezca su contraseña" name="password" onChange={(e) => setPassword(e.target.value)} value={password} />
         </Form.Group>
-        <Form.Group className="mb-4" controlId="formGroupPassword">
+        <Form.Group className="mb-4" controlId="formGroupConfirmPassword">
           <Form.Label className="fw-bold">Confirmar Contraseña</Form.Label>
           <Form.Control type="password" placeholder="Confirme su contraseña" name="confirmPassword" onChange={(e) => setConfirmPassword(e.target.value)} value={confirmPassword} />
         </Form.Group>
