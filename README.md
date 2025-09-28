@@ -36,11 +36,11 @@ npm install
 npm run dev
 ```
 
-- La aplicación debería estar visible desde el navegador en "http://localhost:5173/" para lo cual <span style="text-decoration: underline">ya debe haberse levantado el servidor backend</span>.
+- La aplicación debería estar visible desde el navegador en "http://localhost:5173/" para lo cual <u>**ya debe haberse levantado el servidor backend**</u>.
 
 ⚠️ En caso de no contar con el backend:
 
-1. Descargarlo desde el siguiente link "[Backend](https://we.tl/t-vU9qqqOnqo)"(Peso de archivo descargable: <span style="color: green">23 KB</span>). <span style="color: yellow">Este link es de carácter temporal y estará disponible sólo hasta el <span style="color: red; font-weight: bold">01/10/2025</span>, luego de esta fecha se debe solicitar nuevo link para descarga</span>.
+1. Descargarlo desde el siguiente link "[Backend](https://we.tl/t-vU9qqqOnqo)"(Peso de archivo descargable: <span style="color: green">23 KB</span>). <span style="color: yellow">*Este link es de carácter temporal y estará disponible sólo hasta el* <span style="color: red;">**01/10/2025**</span>*, luego de esta fecha se debe solicitar nuevo link para descarga*</span>.
 2. Descomprimir archivo descargado
 3. Abrir el directorio en terminal
 4. Instalar dependencias:
